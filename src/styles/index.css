@@ -1,0 +1,26 @@
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.header-link {
+    color: pink;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.footer-link {
+    color: olivedrab;
+    font-size: 1rem;
+    text-decoration-line: underline;    
+}
+
+.blog_1-link { 
+    color: darkorange;
+    font-size: 16px;
+    text-decoration: none; 
+}
+
+.carosel-restricted {
+    max-width: 50%;
+}

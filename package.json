@@ -1,0 +1,15 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "Jody's Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jody Allsbrook",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
